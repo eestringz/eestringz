@@ -7,33 +7,31 @@
 </br>
 
 
-<img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="50%" height="40%" align="right" />
-## 저는요
- 
 
 
-<img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="50%" height="40%" align="right" />
 
-<strong>🙋‍♀️ About Me</strong> 
-<hr>
 
-- 🔧
-- 💡 
-- 📖
-- ❄️
-- 📫 tmdgus1761@gmail.com
+## 🙋‍♀️ About Me
+
+<img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="40%" height="20%" align="right" />
+
+
 
 </br>
 </br>
-
-| 🙋‍♀️ Projects | 🏆 Awards |
-|--------------|----------|
-| 1.           | 1.       |
-| 2.           | 2.       |
-| 3.           | 3.       |
-
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
