@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
 
-
 <img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="50%"  align="right" />
 
 
@@ -12,16 +11,19 @@
 </br>
 
 - 🔧 I’m currently working on ...Online Retail Community App.
-
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
 - 📖 I’m currently learning ...Flask.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 📫 tmdgus1761@gmail.com
+- 
 
+
+</br>
 <hr>
 
 </br>
-
+</br>
+</br>
 
 <table width="100%" >
 
@@ -89,3 +91,6 @@
   </td>
  </tr>
 </table>
+
+
+<img width="100%"  src="https://github.com/eestringz/eestringz/blob/output/github-contribution-grid-snake.svg" />
