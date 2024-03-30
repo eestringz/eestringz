@@ -1,14 +1,10 @@
 # Hey there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=안녕+하세요+!;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger..."/>
  
 </br>
 </br>
 </br>
-
-
-
-
 
 
 ## 🙋‍♀️ About Me
