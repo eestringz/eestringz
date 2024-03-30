@@ -1,13 +1,15 @@
+<div>
+  
+ 
+  
+## 👋 About Me 👋 
+
+ <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eestringz"/>
+  
 
 
-
-## 🙋‍♀️ About Me
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=eestringz)](https://solved.ac/eestringz)
-
-<img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="40%" height="20%" align="right" />
-
-
+ 
+</div>
 
 </br>
 </br>
@@ -17,16 +19,7 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 
 
