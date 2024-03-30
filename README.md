@@ -1,32 +1,44 @@
-# Hey there👋, Welcome to my Github Profile
+# Hey there👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
+</br>
+</br>
+</br>
+
+
+## 🙋‍♀️ About Me
 <img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="50%"  align="right" />
 
-
-</br>
-</br>
-</br>
-
-## ⚡🙋‍♂️ About Me
-
-</br>
-
-- 🔧 I’m currently working on ...Online Retail Community App.
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- 🔧
+- 💡 
+- 📖
+- ❄️
 - 📫 tmdgus1761@gmail.com
-- 
-
-
-</br>
-<hr>
 
 </br>
 </br>
+
+## 🙋‍♀️ Project
+
+- 1.
+- 2.
+- 3.
+
 </br>
+</br>
+
+## 🙋‍♀️ Awards
+
+- 1.
+- 2.
+- 3.
+
+
+</br>
+</br>
+</br>
+
 
 <table width="100%" >
 
@@ -37,7 +49,7 @@
 
 #### Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/Python-0B2C4A?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 
