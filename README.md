@@ -2,9 +2,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
-
 <img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="50%"  align="right" />
 
+
+</br>
+</br>
+</br>
 
 ## ⚡🙋‍♂️ About Me
 
