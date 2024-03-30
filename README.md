@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 깃허브 통계
 ![프로필 상세](https://github-readme-stats.vercel.app/api?username=eestringz&show_icons=true&theme=radical)
+
+
+	
+<p align = "center">
+	<img src = "https://github.com/eestringz/eestringz/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
