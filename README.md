@@ -1,13 +1,9 @@
-# Hey there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=안녕+하세요+!;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger..."/>
- 
-</br>
-</br>
-</br>
 
 
 ## 🙋‍♀️ About Me
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=eestringz)](https://solved.ac/eestringz)
 
 <img src="https://github.com/eestringz/eestringz/assets/143936094/61287393-bbae-41b0-9241-78d3af378303" width="40%" height="20%" align="right" />
 
@@ -31,6 +27,7 @@
 </br>
 </br>
 </br>
+
 
 
 <table width="100%" >
@@ -104,6 +101,7 @@
   </td>
  </tr>
 </table>
+
 
 
 <img width="100%"  src="https://github.com/eestringz/eestringz/blob/output/github-contribution-grid-snake.svg" />
