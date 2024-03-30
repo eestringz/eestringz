@@ -6,13 +6,14 @@
 
  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eestringz"/>
   
-
 </br>
 </br>
 </br>
 </br>
  
 </div>
+
+
 
 </br>
 </br>
@@ -99,5 +100,6 @@
 </table>
 
 
+<img width="100%" src="https://github.com/eestringz/eestringz/blob/output/github-contribution-grid-snake.svg" />
 
-<img width="100%"  src="https://github.com/eestringz/eestringz/blob/output/github-contribution-grid-snake.svg" />
+
