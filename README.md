@@ -1,4 +1,4 @@
-<div>
+ <!--- <div>
   
  
   
@@ -34,12 +34,6 @@
      
 ## 🛠️ Skills
 
-#### Languages
-
-![Python](https://img.shields.io/badge/Python-0B2C4A?style=flat&logo=python&logoColor=3776AB)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-
 
 #### Development
 
@@ -50,34 +44,7 @@
 ![Vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
 
-#### Database
 
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-
-
-#### Data Analytics 
-
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=pandas&logoColor=white)&nbsp;
-
-
-#### Tools and Technologies
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-
-
-#### Environments
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Webstorm](https://img.shields.io/badge/Webstorm-000000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
 
 
 
