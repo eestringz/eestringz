@@ -1,4 +1,4 @@
- <!--- <div>
+ <div>
   
  
   
@@ -66,7 +66,5 @@
  </tr>
 </table>
 
-
-<img width="100%" src="https://github.com/eestringz/eestringz/blob/output/github-contribution-grid-snake.svg" />
 
 
