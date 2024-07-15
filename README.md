@@ -2,29 +2,28 @@
   
  
   
-## 👋 About Me 👋 
+## 🖐 Introduce
 
- <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eestringz"/>
-  
-</br>
-</br>
-</br>
-</br>
- 
+
+🤝 사용자 경험을 최우선으로, 데이터 관점에서 생각합니다.
+
+
+❕  문제점에 대해서 분석하고 해결점을 찾는 것을 즐깁니다.
+
+
+📑  문서화와 정보 공유를 기반으로 업무의 증진을 추구합니다.
+
+
+🙌  "깊게 살펴보는 탐구 성향"을 가지고 "why?"를 끊임없이 고민합니다.
+
+
 </div>
 
 
-
 </br>
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-
-
 
 
 <table width="100%" >
@@ -43,9 +42,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 
-
-
-
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eestringz"/>
 
 
 </td>
