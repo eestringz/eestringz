@@ -44,5 +44,10 @@
 
 
 </br>
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eestringz)&nbsp;&nbsp;&nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=eestringz&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black)
+<div style="display: flex; align-items: center;">
+  <a href="https://solved.ac/eestring/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eestringz" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=eestringz&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+</div>
