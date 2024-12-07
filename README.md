@@ -45,7 +45,7 @@
 
 </br>
 <div style="display: flex; align-items: center;">
-  <a href="https://solved.ac/eestring/">
+  <a href="https://solved.ac/eestringz/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eestringz" />
   </a>
   &nbsp;&nbsp;
